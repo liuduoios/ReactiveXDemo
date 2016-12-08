@@ -1,0 +1,6 @@
+framework module Pods_ReactiveXDemo {
+  umbrella header "Pods-ReactiveXDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
